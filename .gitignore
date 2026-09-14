@@ -1,0 +1,10 @@
+.gitkeep
+.envrc
+.direnv
+.virtual_documents
+data/
+.ipynb_checkpoints/
+docs/*.aux
+docs/*.log
+docs/*.out
+__pycache__/
